@@ -1,0 +1,9 @@
+C:\Users\USER\Desktop\Chapter 3 CSharp\bin\Debug\Chapter 3 CSharp.exe
+C:\Users\USER\Desktop\Chapter 3 CSharp\bin\Debug\Chapter 3 CSharp.pdb
+C:\Users\USER\Desktop\Chapter 3 CSharp\obj\x86\Debug\Chapter 3 CSharp.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Chapter 3 CSharp\obj\x86\Debug\Chapter_3_CSharp.AccountDetail.resources
+C:\Users\USER\Desktop\Chapter 3 CSharp\obj\x86\Debug\Chapter_3_CSharp.AccountManager.resources
+C:\Users\USER\Desktop\Chapter 3 CSharp\obj\x86\Debug\Chapter_3_CSharp.Properties.Resources.resources
+C:\Users\USER\Desktop\Chapter 3 CSharp\obj\x86\Debug\Chapter 3 CSharp.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Chapter 3 CSharp\obj\x86\Debug\Chapter 3 CSharp.exe
+C:\Users\USER\Desktop\Chapter 3 CSharp\obj\x86\Debug\Chapter 3 CSharp.pdb
