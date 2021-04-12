@@ -1,0 +1,9 @@
+C:\Users\USER\Desktop\Chapter 4 CSharp\obj\x86\Debug\Chapter 4 CSharp.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Chapter 4 CSharp\obj\x86\Debug\Chapter_4_CSharp.Properties.Resources.resources
+C:\Users\USER\Desktop\Chapter 4 CSharp\obj\x86\Debug\Chapter_4_CSharp.ResultsViewer.resources
+C:\Users\USER\Desktop\Chapter 4 CSharp\obj\x86\Debug\Chapter_4_CSharp.TableExaminer.resources
+C:\Users\USER\Desktop\Chapter 4 CSharp\obj\x86\Debug\Chapter 4 CSharp.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Chapter 4 CSharp\bin\Debug\Chapter 4 CSharp.exe
+C:\Users\USER\Desktop\Chapter 4 CSharp\bin\Debug\Chapter 4 CSharp.pdb
+C:\Users\USER\Desktop\Chapter 4 CSharp\obj\x86\Debug\Chapter 4 CSharp.exe
+C:\Users\USER\Desktop\Chapter 4 CSharp\obj\x86\Debug\Chapter 4 CSharp.pdb
