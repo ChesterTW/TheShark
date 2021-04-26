@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\Chapter 5 CSharp\obj\x86\Debug\Chapter 5 CSharp.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Chapter 5 CSharp\obj\x86\Debug\Chapter_5_CSharp.FlightDetail.resources
+C:\Users\USER\Desktop\Chapter 5 CSharp\obj\x86\Debug\Chapter_5_CSharp.FlightInfo.resources
+C:\Users\USER\Desktop\Chapter 5 CSharp\obj\x86\Debug\Chapter_5_CSharp.LegDetail.resources
+C:\Users\USER\Desktop\Chapter 5 CSharp\obj\x86\Debug\Chapter_5_CSharp.Properties.Resources.resources
+C:\Users\USER\Desktop\Chapter 5 CSharp\obj\x86\Debug\Chapter 5 CSharp.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Chapter 5 CSharp\bin\Debug\Chapter 5 CSharp.exe
+C:\Users\USER\Desktop\Chapter 5 CSharp\bin\Debug\Chapter 5 CSharp.pdb
+C:\Users\USER\Desktop\Chapter 5 CSharp\obj\x86\Debug\Chapter 5 CSharp.exe
+C:\Users\USER\Desktop\Chapter 5 CSharp\obj\x86\Debug\Chapter 5 CSharp.pdb
