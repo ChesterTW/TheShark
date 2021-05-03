@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\Chapter 6 CSharp\bin\Debug\Chapter 6 CSharp.exe
+C:\Users\USER\Desktop\Chapter 6 CSharp\bin\Debug\Chapter 6 CSharp.pdb
+C:\Users\USER\Desktop\Chapter 6 CSharp\obj\x86\Debug\Chapter 6 CSharp.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Chapter 6 CSharp\obj\x86\Debug\Chapter_6_CSharp.Aggregates.resources
+C:\Users\USER\Desktop\Chapter 6 CSharp\obj\x86\Debug\Chapter_6_CSharp.DataViews.resources
+C:\Users\USER\Desktop\Chapter 6 CSharp\obj\x86\Debug\Chapter_6_CSharp.Switchboard.resources
+C:\Users\USER\Desktop\Chapter 6 CSharp\obj\x86\Debug\Chapter_6_CSharp.Properties.Resources.resources
+C:\Users\USER\Desktop\Chapter 6 CSharp\obj\x86\Debug\Chapter 6 CSharp.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Chapter 6 CSharp\obj\x86\Debug\Chapter 6 CSharp.exe
+C:\Users\USER\Desktop\Chapter 6 CSharp\obj\x86\Debug\Chapter 6 CSharp.pdb
